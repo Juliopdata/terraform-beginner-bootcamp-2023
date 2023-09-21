@@ -13,4 +13,9 @@ Given a version number **MAJOR.MINOR.PATCH**, increment the:
 
 Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
 
-## More info
+### Working Env Vars
+
+#### env command
+
+We can list out all Enviroment Variables using `env` command
+
