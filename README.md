@@ -17,5 +17,5 @@ Additional labels for pre-release and build metadata are available as extensions
 
 #### env command
 
-We can list out all Enviroment Variables using `env` command
+We can list out all Enviroment Variables using `env` command.
 
